@@ -19,3 +19,5 @@
 
 - **CheckMySign:** [checkmysign.app](https://checkmysign.app)
 - **VoiceMyGoal:** [voicemygoal.vercel.app](https://voicemygoal.vercel.app)
+- **Atlas Organico:** [atlasorganico.com](https://atlasorganico.com)
+- **Malta Pharmacy:** [malta-pharmacy.com](https://malta-pharmacy.com)
