@@ -1,23 +1,30 @@
-# Hi there 👋
+# Hi, I'm Osmell 👋
 
-- 🧑‍💻 I'm Osmell
-- 🔨 I build tools for developers — Laravel packages, CLI tools, and AI workflows
-- 🎬 I make coding videos at [youtube.com/@oele_dev](https://youtube.com/@oele_dev)
-- ✍️ I write about markdown & AI workflows at [markdowneverywhere.substack.com](https://markdowneverywhere.substack.com)
-- 🐦 I'm on X [@oele_dev](https://x.com/oele_dev)
-- 💼 I'm on LinkedIn [oele-dev](https://linkedin.com/in/oele-dev)
+**Every last drop of efficiency. · Hasta la última gota de eficiencia.**
+
+10+ years in Laravel. Today I build with agentic AI: Claude Code, sub-agents, and a `/ticket` workflow with a human QA gate before anything ships. I also launch small products with my own method, **Ship Small, Ship Fast**: launch, measure, kill fast, and post the numbers, including the ones that failed.
+
+- 🐦 Build log on X (ES/EN): [@oele_dev](https://x.com/oele_dev)
 - 🌐 Portfolio & contact: [oele.dev](https://oele.dev)
+- 💼 [LinkedIn](https://linkedin.com/in/oele-dev)
 
-## Projects & Packages
+## Tools
 
-- **mkdn** — CLI tool that converts PDF, DOCX, Excel, HTML & images to Markdown using Cloudflare Workers AI. Zero dependencies. [github.com/oele-dev/mkdn](https://github.com/oele-dev/mkdn)
-- **laravel-missing-index** — Laravel package that detects SQL queries missing database indexes during development. [github.com/oele-dev/laravel-missing-index](https://github.com/oele-dev/laravel-missing-index)
-- **Agents** — Modular skills-based framework for AI-assisted development with Claude Code. [github.com/oele-dev/agents](https://github.com/oele-dev/agents)
-- **Billventory** — Inventory & billing manager built with Laravel. [github.com/oele-dev/billventory](https://github.com/oele-dev/billventory)
+- **[agents](https://github.com/oele-dev/agents)**: my Claude Code setup. Rules, skills and specialized agents for code, review, security and tests.
+- **[mkdn](https://github.com/oele-dev/mkdn)**: CLI that converts PDF, DOCX, Excel, HTML and images to Markdown with Cloudflare Workers AI. Zero runtime dependencies.
+- **[laravel-missing-index](https://github.com/oele-dev/laravel-missing-index)**: runs EXPLAIN on every query in development, flags full table scans and prints the `CREATE INDEX` that fixes them.
+- **[billventory](https://github.com/oele-dev/billventory)**: inventory and billing manager built with Laravel.
 
-## Apps I Made
+## Experiments (Ship Small, Ship Fast)
 
-- **CheckMySign:** [checkmysign.app](https://checkmysign.app)
-- **VoiceMyGoal:** [voicemygoal.vercel.app](https://voicemygoal.vercel.app)
-- **Atlas Organico:** [atlasorganico.com](https://atlasorganico.com)
-- **Malta Pharmacy:** [malta-pharmacy.com](https://malta-pharmacy.com)
+Every product here is a test. Most don't make it.
+
+| Product | What it does | Status |
+|---|---|---|
+| [Instructor Virtual](https://instructorvirtual.co) | Chrome extension for SENA instructors, with AI grading against rubrics | Live, paying users |
+| [Ultti](https://ultti.co) | A delivery business's catalog in one link; orders land on WhatsApp | Live |
+| [Malta Pharmacy](https://malta-pharmacy.com) | Programmatic SEO directory, 800+ static pages | Live, no tracking |
+| [CheckMySign](https://checkmysign.app) | — | Deployed, no tracking |
+| [Atlas Orgánico](https://atlasorganico.com) | — | Deployed, no tracking |
+| [Corre Conmigo](https://correconmigo.app) | Voice messages from family and friends that play in a runner's headphones during a race | Stopped by its own gate: 11 rooms, 6 started, 0 ran the race |
+| [VoiceMyGoals](https://voicemygoal.vercel.app) | Written goals into affirmation audio | Closed: 3 signups, $0 |
